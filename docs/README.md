@@ -26,13 +26,13 @@ Voici la structure des dossiers et fichiers du projet :
 mon-projet/
 │
 ├── src/                # Contient le code source du projet
-│   ├── index.html      # Le fichier HTML principal
-│   ├── style.css       # Le fichier CSS principal
-│   └── script.js       # Le fichier JavaScript principal
+│   ├── Tp1.html      # Le fichier HTML principal
+│   ├── Tp1.css       # Le fichier CSS principal
+│   └── Tp1.js       # Le fichier JavaScript principal
 │
 └──  docs/               # Dossier pour la documentation
     ├── README.md       # Ce fichier README
-    └── rapport.md      # Rapport du projet
+    └── BilanTP1-ThéoDefossez.pdf      # Rapport du projet
 
 ```
 
